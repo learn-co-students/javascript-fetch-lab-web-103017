@@ -1,4 +1,4 @@
-const token = "a34e549b7a8e7ad03d048233e68fda0b0182c83c"
+const token = ""
 
 function getIssues() {
   fetch('https://api.github.com/repos/Josh-Stillman/javascript-fetch-lab/issues', {
